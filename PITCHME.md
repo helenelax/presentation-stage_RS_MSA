@@ -1,7 +1,7 @@
 # Les réseaux sociaux
 ### Définition, fonctionnement, enjeux et usages
-Stage  *Facebook, Twitter, les réseaux sociaux : fonctionnement, enjeux et utilisation pédagogique*  
-Florac - février 2018
+Stage  *Les réseaux sociaux : fonctionnement, enjeux et outils de communication*  
+Florac - mai 2018
 
 ---
 
@@ -59,12 +59,12 @@ Grâce aux RS les Russes ont fait élire Trump
 ---
 
 ## Notre premier réseau social
-![Photo de classe](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Gerard_Louis.jpg)  
+![Photo de classe](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Gerard_Louis.jpg)  
 
 ---
 
 ## Ou bien celui là
-![Promotion Voltaire 1980](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/1980_promotion_ena.jpg)  
+![Promotion Voltaire 1980](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/1980_promotion_ena.jpg)  
 
 Note: 
 Promotion Voltaire  1980 Villepin, Hollande, Donnadieu de Vabres, Royal
@@ -111,20 +111,15 @@ Et après, les ateliers de prise en main
 ## Pourquoi être sur les réseaux sociaux ?
 
 ---
-![Sondage](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Leila_Silene01.jpg)
+![Sondage](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Leila_Silene01.jpg)
 
 +++
 
-![Test detail](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Leila_Silene02.jpg)
+![Test detail](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Leila_Silene02.jpg)
 
 ---
-## Enseigner/apprendre **avec** les réseaux sociaux
 
-+++
-
-### Favoriser les échanges au sein du groupe : à distance, asynchrone, entre pair
-- Visite sur le terrain
-- Gestes professionnels
+### Favoriser les échanges au sein du groupe : à distance, asynchrone, entre pairs
 - Lien entre le lieu de stage et l'école
 - Classe inversée
 - Corrections par les pairs
@@ -133,19 +128,18 @@ Et après, les ateliers de prise en main
 
 ### Se mettre en lien avec l'extérieur
 - Faire sa veille - se tenir au courant de l'actualité de sa communauté d'intérêt   
-![veille perso](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Faire_sa_veille.png)
+![veille perso](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Faire_sa_veille.png)
 
 +++
 
 ### Se mettre en lien avec l'extérieur
-
 - Enquêtes   
-![Enquêtes](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Enquetes_etudiants.png)
+![Enquêtes](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Enquetes_etudiants.png)
 
 +++
 
 ### Se mettre en lien avec l'extérieur
-- Correspondants étrangers | 
+- Correspondants étrangers
 - Faire vivre le réseau des anciens |
 - Se créer un réseau professionnel (Enseignant et étudiants) |
 
@@ -153,87 +147,50 @@ Et après, les ateliers de prise en main
 
 ### Se mettre en lien avec l'extérieur
 - Échanger entre collègues 
-![Question iPad](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Echanges_avec_collegues.png)
+![Question iPad](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Echanges_avec_collegues.png)
 - S'ouvrir grâce aux liens faibles |
 
 +++
 
-### Faire écrire
-- Twictée  
-![Twictéé](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Twictee.png)
+### Motiver les étudiants
+![Histoire](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Motiver_Histoire.png)
 
 +++
 
-### Faire écrire
-
-- Twitt Class  
-![Twit class](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Twittclass.png)
-
-+++
-
-### Valoriser les travaux des élèves
-- Compte-rendu de voyage
-
-![Voyage Danemark](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Voyage_etude.png)
-
-
-- Diffusion de textes, d'images
-
-+++
-
-### Motiver les élèves
-
-![Histoire](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Motiver_Histoire.png)
-
-+++
-
-### Motiver les élèves
-![Thème culturel](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Theme_culturel.png)
+### Motiver les étudiants
+![Thème culturel](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Theme_culturel.png)
 
 +++
 
 ### Faire de la comm'
-- Communiquer sur le lycée pour le recrutement
-![recrutement1](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Aider_au_recrutement.png)
+- Communiquer pour le recrutement
+![recrutement1](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Aider_au_recrutement.png)
 
 ### Faire de la comm'
-- Communiquer sur le lycée pour le recrutement
-![recrutement2](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Recrutement2.png)
+- Communiquer pour le recrutement
+![recrutement2](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Recrutement2.png)
 
 +++
 
-- Communiquer sur les actions du CDI
-![commCDI](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Communication_CDI.png)
+- Communiquer sur les actions de la bibliothèque
+![commCDI](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Communication_CDI.png)
 
 ### Diffuser sa veille
-![Diffuser sa veille](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Diffuser_sa_veille.png)
+![Diffuser sa veille](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Diffuser_sa_veille.png)
 
 --- 
 
-## Enseigner/apprendre **sur** les réseaux sociaux
-
-+++
-
-- Apprendre à communiquer
-- Comprendre comment cela fonctionne
-- Apprendre le bon usage
-- Apprendre à construire son identité numérique
-- Éducation aux médias et à l'information (EMI)
-- Éducation à la littératie numérique
-
----
-
 ## On y est déjà !
 
-![On y est](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_On_y_est_deja.png)
+![On y est](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_On_y_est_deja.png)
 
 +++
 
-![On y est 2](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_On_y_est_deja_2.png)
+![On y est 2](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_On_y_est_deja_2.png)
 
 +++
 Et pas forcément sous notre plus beau jour...
-![Cochon supagro](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_CochonSupagro.png)
+![Cochon supagro](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_CochonSupagro.png)
 
 
 
@@ -244,25 +201,25 @@ Et pas forcément sous notre plus beau jour...
 ---
 
 ## Vivre dans le Flux
-![Flux](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Traffic_Flow_on_E6_Flickr_Hades2k_CCBySa.jpg)  
+![Flux](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Traffic_Flow_on_E6_Flickr_Hades2k_CCBySa.jpg)  
 <span style="font-size: 15px;">danah boyd / Attention ? / Démocratisation ? / Homophilie ? </span>
 
 ---
 
 ## Cloud computing 
-![Cloud computing](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/There_is_no_cloud.gif)  
+![Cloud computing](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/There_is_no_cloud.gif)  
 <span style="font-size: 15px;">Pérennité / Confidentialité / Sécurité / Propriété des données / Alternatives </span>
 
 ---
 
 ## Identité
-![Personne ne sait que tu es un chien](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/STEINER_sur_internet_personne_ne_sait_que_tu_es_un_chien.jpg)  
+![Personne ne sait que tu es un chien](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/STEINER_sur_internet_personne_ne_sait_que_tu_es_un_chien.jpg)  
 <span style="font-size: 15px;">unique / multiple / construite / cachée</span>
 
 ---
 
 ## Paniques morales
-![Dangers dans la chambre](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Danger_internet_chambre.jpg)  
+![Dangers dans la chambre](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Danger_internet_chambre.jpg)  
 <span style="font-size: 15px;">Harcèlement / isolement</span>
 
 Note:
@@ -270,13 +227,13 @@ L'expression est de danah boyd
 ---
 
 ## Propriété intellectuelle 
-![Piratage et partage](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Piraterie-partage_Flickr_g4ll4is_CCbySA.jpg)  
+![Piratage et partage](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Piraterie-partage_Flickr_g4ll4is_CCbySA.jpg)  
 <span style="font-size: 15px;">Culture du remix / Partage et re-tweet / Curation / Perte de droit sur les données</span>
 
 ---
 
 ## Minitel 2.0 ?
-![3614 Facebook](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/3615-facebook.jpg)  
+![3614 Facebook](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/3615-facebook.jpg)  
 <span style="font-size: 15px;">Concentration des données</span>
 
 Note: 
@@ -285,13 +242,13 @@ Benjamin Bayart
 ---
 
 ## Digital native : Digital migrant ?
-![Marc Prensky](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/MarkPrensky_campuspartybrasil_Flickr_ccBySa.jpg)  
+![Marc Prensky](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/MarkPrensky_campuspartybrasil_Flickr_ccBySa.jpg)  
 <span style="font-size: 15px;">Marc Prensky / compétences procédurales / compréhension / monde dissociés</span>
 
 ---
 
 ## Changement de posture
-![Filtre parental](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/parentsetinternet.jpg)  
+![Filtre parental](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/parentsetinternet.jpg)  
 <span style="font-size: 15px;">Accompagnement / Co-construction</span>
 
 ---
