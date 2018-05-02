@@ -137,13 +137,13 @@ Réseaux sociaux + création de contenu
 +++
 
 ### Se mettre en lien avec l'extérieur
-- Se créer un réseau professionnel (Enseignant et étudiants)
+- Se créer un réseau professionnel (Enseignant et étudiants)  
 ![Réseaux sociaux scientifiques](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_RS_scientifique.png)
 
 +++
 
 ### Se mettre en lien avec l'extérieur
-- Partager des informations
+- Partager des informations  
 ![Agenda séminaire](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Info_seminaire.png)
 
 +++
@@ -176,19 +176,19 @@ Réseaux sociaux + création de contenu
 ---
 
 ### Faire de la comm'
-- Communiquer pour le recrutement (large)
+- Communiquer pour le recrutement (large)  
 ![recrutement large](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_recrutement_international_supagro.png)
 
 +++
 
 ### Faire de la comm'
-- Communiquer pour le recrutement (ciblé)
+- Communiquer pour le recrutement (ciblé)  
 ![recrutement ciblé](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_CommunicationJPO.png)
 
 +++
 
 ### Faire de la comm'
-- Communiquer sur les actions de la bibliothèque
+- Communiquer sur les actions de la bibliothèque  
 ![commBib](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Bibliotheque.png)
 
 --- 
