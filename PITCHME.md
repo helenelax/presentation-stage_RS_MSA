@@ -221,6 +221,9 @@ Et après, les ateliers de prise en main
 
 ## Ça change quoi ?
 
+Note: 
+On est passé des RS pour la démocratie au RS : fake news et vol de données
+
 ---
 
 ## Vivre dans le Flux
@@ -247,6 +250,7 @@ Et après, les ateliers de prise en main
 
 Note:
 L'expression est de danah boyd
+
 ---
 
 ## Propriété intellectuelle 
