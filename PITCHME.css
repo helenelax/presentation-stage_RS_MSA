@@ -2,8 +2,3 @@
   border: 0;
   box-shadow: none;
 }
-/*ajout LN pour aligner à gauche*/
-.reveal .slides {
-    text-align: left;
-}
-/*fin ajout*/
