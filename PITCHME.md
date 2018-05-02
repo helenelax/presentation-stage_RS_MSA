@@ -118,6 +118,7 @@ Réseaux sociaux + création de contenu
 ### Favoriser les échanges au sein du groupe : à distance, asynchrone, entre pairs
 
 +++
+
 ### Favoriser les échanges au sein du groupe
 - Sites distants 
 
