@@ -117,12 +117,14 @@ Réseaux sociaux + création de contenu
 
 ### Favoriser les échanges au sein du groupe : à distance, asynchrone, entre pairs
 
++++
+### Favoriser les échanges au sein du groupe
 - Sites distants 
 ![Lab Supagro](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Echange_collegue_groupeferme_labsupagro.png)
 
 +++
 
-### Favoriser les échanges au sein du groupe : à distance, asynchrone, entre pairs
+### Favoriser les échanges au sein du groupe
 - Éclaircir un point de cours
 - Accéder à des ressources supplémentaires
 - Classe inversée
