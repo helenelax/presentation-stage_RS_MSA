@@ -116,18 +116,19 @@ Réseaux sociaux + création de contenu
 ---
 
 ### Favoriser les échanges au sein du groupe : à distance, asynchrone, entre pairs
+
+- Sites distants 
+![Lab Supagro](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Echange_collegue_groupeferme_labsupagro.png)
+
++++
+
+### Favoriser les échanges au sein du groupe : à distance, asynchrone, entre pairs
 - Éclaircir un point de cours
 - Accéder à des ressources supplémentaires
 - Classe inversée
 - Favoriser l'apprentissage collaboratif
 
 ---
-
-### Favoriser les échanges au sein du groupe : à distance, asynchrone, entre pairs
-
-![Lab Supagro](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Echange_collegue_groupeferme_labsupagro.png)
-
-+++
 
 ### Se mettre en lien avec l'extérieur
 - Faire sa veille - se tenir au courant de l'actualité de sa communauté d'intérêt   
@@ -136,8 +137,16 @@ Réseaux sociaux + création de contenu
 +++
 
 ### Se mettre en lien avec l'extérieur
+- Se créer un réseau professionnel (Enseignant et étudiants)
+![Réseaux sociaux scientifiques](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_RS_scientifique.png)
+
++++
+
+### Se mettre en lien avec l'extérieur
 - Partager des informations
 ![Agenda séminaire](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Info_seminaire.png)
+
++++
 
 ### Se mettre en lien avec l'extérieur
 - Enquêtes   
@@ -146,26 +155,25 @@ Réseaux sociaux + création de contenu
 +++
 
 ### Se mettre en lien avec l'extérieur
-- Correspondants étrangers
-- Faire vivre le réseau des anciens |
+- Faire vivre le réseau des anciens 
+![Alumni1](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Alumni1.png)
+
++++
+
+![Alumni2](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Alumni2.png)
 
 +++
 
 ### Se mettre en lien avec l'extérieur
-- Se créer un réseau professionnel (Enseignant et étudiants)
-![Réseaux sociaux scientifiques](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_RS_scientifique.png)
 
-### Se mettre en lien avec l'extérieur
-- Échanger entre collègues 
-![Question iPad](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Echanges_avec_collegues.png)
-- S'ouvrir grâce aux liens faibles |
+- Ouvrir son horizon grace aux liens faibles
 
-+++
+---
 
 ### Motiver les étudiants
 ![Histoire](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Motiver_Histoire.png)
 
-+++
+---
 
 ### Faire de la comm'
 - Communiquer pour le recrutement (large)
@@ -182,11 +190,6 @@ Réseaux sociaux + création de contenu
 ### Faire de la comm'
 - Communiquer sur les actions de la bibliothèque
 ![commBib](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Bibliotheque.png)
-
-+++
-
-### Diffuser sa veille
-![Diffuser sa veille](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Diffuser_sa_veille.png)
 
 --- 
 
