@@ -183,6 +183,8 @@ Réseaux sociaux + création de contenu
 - Communiquer sur les actions de la bibliothèque
 ![commBib](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Bibliotheque.png)
 
++++
+
 ### Diffuser sa veille
 ![Diffuser sa veille](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Diffuser_sa_veille.png)
 
