@@ -117,7 +117,7 @@ Réseaux sociaux + création de contenu
 
 ### Favoriser les échanges au sein du groupe : à distance, asynchrone, entre pairs
 
-Sites distants 
+- Sites distants 
 ![Lab Supagro](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Echange_collegue_groupeferme_labsupagro.png)
 
 +++
@@ -131,19 +131,19 @@ Sites distants
 ---
 
 ### Se mettre en lien avec l'extérieur
-Faire sa veille - se tenir au courant de l'actualité de sa communauté d'intérêt   
+- Faire sa veille - se tenir au courant de l'actualité de sa communauté d'intérêt   
 ![veille perso](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Faire_sa_veille.png)
 
 +++
 
 ### Se mettre en lien avec l'extérieur
-Se créer un réseau professionnel (Enseignant et étudiants)
+- Se créer un réseau professionnel (Enseignant et étudiants)
 ![Réseaux sociaux scientifiques](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_RS_scientifique.png)
 
 +++
 
 ### Se mettre en lien avec l'extérieur
-Partager des informations
+- Partager des informations
 ![Agenda séminaire](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Info_seminaire.png)
 
 +++
