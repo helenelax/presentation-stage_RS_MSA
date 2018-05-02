@@ -202,6 +202,7 @@ Réseaux sociaux + création de contenu
 ![On y est 2](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_On_y_est_deja_2.png)
 
 +++
+
 Et pas forcément sous notre plus beau jour...
 ![Cochon supagro](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_CochonSupagro.png)
 
