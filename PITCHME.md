@@ -104,10 +104,6 @@ Réseaux sociaux + création de contenu
 *(définition personnelle)*
 
 ---
-## Pause
-Et après, les ateliers de prise en main
-
----
 ## Pourquoi être sur les réseaux sociaux ?
 
 ---
@@ -120,9 +116,16 @@ Et après, les ateliers de prise en main
 ---
 
 ### Favoriser les échanges au sein du groupe : à distance, asynchrone, entre pairs
-- Lien entre le lieu de stage et l'école
+- Éclaircir un point de cours
+- Accéder à des ressources supplémentaires
 - Classe inversée
-- Corrections par les pairs
+- Favoriser l'apprentissage collaboratif
+
+---
+
+### Favoriser les échanges au sein du groupe : à distance, asynchrone, entre pairs
+
+![Lab Supagro](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Echange_collegue_groupeferme_labsupagro.png)
 
 +++
 
@@ -133,17 +136,24 @@ Et après, les ateliers de prise en main
 +++
 
 ### Se mettre en lien avec l'extérieur
+- Partager des informations
+![Agenda séminaire](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Info_seminaire.png)
+
+### Se mettre en lien avec l'extérieur
 - Enquêtes   
-![Enquêtes](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Enquetes_etudiants.png)
+![Enquêtes](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Enquete.png)
 
 +++
 
 ### Se mettre en lien avec l'extérieur
 - Correspondants étrangers
 - Faire vivre le réseau des anciens |
-- Se créer un réseau professionnel (Enseignant et étudiants) |
 
 +++
+
+### Se mettre en lien avec l'extérieur
+- Se créer un réseau professionnel (Enseignant et étudiants)
+![Réseaux sociaux scientifiques](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_RS_scientifique.png)
 
 ### Se mettre en lien avec l'extérieur
 - Échanger entre collègues 
@@ -157,23 +167,21 @@ Et après, les ateliers de prise en main
 
 +++
 
-### Motiver les étudiants
-![Thème culturel](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Theme_culturel.png)
+### Faire de la comm'
+- Communiquer pour le recrutement (large)
+![recrutement large](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_recrutement_international_supagro.png)
 
 +++
 
 ### Faire de la comm'
-- Communiquer pour le recrutement
-![recrutement1](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Aider_au_recrutement.png)
-
-### Faire de la comm'
-- Communiquer pour le recrutement
-![recrutement2](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Recrutement2.png)
+- Communiquer pour le recrutement (ciblé)
+![recrutement ciblé](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_CommunicationJPO.png)
 
 +++
 
+### Faire de la comm'
 - Communiquer sur les actions de la bibliothèque
-![commCDI](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Communication_CDI.png)
+![commBib](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Bibliotheque.png)
 
 ### Diffuser sa veille
 ![Diffuser sa veille](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_Diffuser_sa_veille.png)
@@ -192,6 +200,10 @@ Et après, les ateliers de prise en main
 Et pas forcément sous notre plus beau jour...
 ![Cochon supagro](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS_MSA/Exemple_CochonSupagro.png)
 
+---
+
+## Pause
+Et après, les ateliers de prise en main
 
 
 ---
@@ -277,5 +289,4 @@ Benjamin Bayart
 
 * Marc Presky - Flickr - campuspartybrasi - CC by sa
 * *Tu peux m'installer ce logiciel ?* - Jim Borgman - Tous droits réservés
-
 
